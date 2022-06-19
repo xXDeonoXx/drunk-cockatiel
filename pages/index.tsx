@@ -6,7 +6,6 @@ import DefaultTemplate from '../components/templates/Default';
 const Home: NextPage = () => {
   return (
     <DefaultTemplate>
-      <Header />
       <Banner />
     </DefaultTemplate>
   );
